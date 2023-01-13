@@ -17,7 +17,8 @@ Couple other things about me:
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have a blog that I barely ever write in. Also, i may be a bit of a workaholic, but I like it. 
 - 🌱 I’m currently learning from the titans of the industry that have paved the way for us. 
-- 🤷‍♂️ I am always working on being a better team player, although I prefer to work alone.
+- 🤷‍♂️ I am always working on being a better team player, although I find it much easier to work alone in most cases.
+- ⛴️ I hold all of the Kubernetes Certs from the CNCF (CKAD,CKA,CKS)
 
 
 ![Casey's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmwylie19&show_icons=true&theme=radical&custom_title=Stats&hide=ranks)
