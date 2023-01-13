@@ -19,3 +19,5 @@ Couple other things about me:
 - 🌱 I’m currently learning from the titans of the industry that have paved the way for us. 
 - 🤷‍♂️ I am always working on being a better team player, although I prefer to work alone.
 
+
+![Casey's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmwylie19&show_icons=true&theme=radical&custom_title=Stats&hide=ranks)
