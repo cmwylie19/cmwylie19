@@ -20,4 +20,4 @@ Couple other things about me:
 - ⛴️ I hold all of the Kubernetes Certs from the CNCF (CKAD,CKA,CKS)
 
 
-![Casey's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmwylie19&show_icons=true&theme=radical&custom_title=Stats&hide=ranks)
+<!-- ![Casey's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmwylie19&show_icons=true&theme=radical&custom_title=Stats&hide=ranks) -->
