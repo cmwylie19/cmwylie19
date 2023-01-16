@@ -16,7 +16,6 @@ Couple other things about me:
 - 📫 How to reach me: Email
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have a blog that I barely ever write in. Also, i may be a bit of a workaholic, but I like it. 
-- 🌱 I’m currently learning from the titans of the industry that have paved the way for us. 
 - ⛴️ I hold all of the Kubernetes Certs from the CNCF (CKAD,CKA,CKS)
 
 
