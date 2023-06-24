@@ -15,7 +15,7 @@ Couple other things about me:
 - 💬 Ask me about my raspi Kubernetes clusters with my `Kube-FS` app for Wireless Cameras
 - 📫 How to reach me: Email
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I have a blog that I barely ever write in. Also, i may be a bit of a workaholic, but I like it. 
+- ⚡ Fun fact: I have a blog and I may be a bit of a workaholic, but I like it. 
 - ⛴️ I hold all of the Kubernetes Certs from the CNCF (CKAD,CKA,CKS)
 
 
