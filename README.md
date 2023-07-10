@@ -12,10 +12,9 @@ I'm a developer heavily focuses on the hybrid cloud around **Kubernetes**. I enj
 Couple other things about me:
 
 - 🔭 I live by the 1% rule, where, no matter what, i try to improve my skills at least by 1% every day. 
-- 💬 Ask me about my raspi Kubernetes clusters with my `Kube-FS` app for Wireless Cameras
+- 💬 Find my writing in Go, JavaScript, TypeScript and using WASM and gRPC
 - 📫 How to reach me: Email
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I have a blog and I may be a bit of a workaholic, but I like it. 
+- ⚡ Fun fact: I have a [blog](https://caseywylie.io) 
 - ⛴️ I hold all of the Kubernetes Certs from the CNCF (CKAD,CKA,CKS)
 
 
