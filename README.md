@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cmwylie19/)
 
 
-I'm a **Kubernetes Specialist**. I enjoy solving complex problems and finding new things to challenge myself with. I'm a stickler for the fundamentals; TDD, infra-as-code, release pipelines w/ GitOps, promotion through staging environments.  I find solving problems of scale and availability to be some of the most rewarding. I am especially interested in metrics, telemetry, gateways and service meshes. As a Principal Software Engineer I build applications and infrastructure to run on Kubernetes and the Hybrid Cloud. 
+I'm a developer heavily focuses on the hybrid cloud around **Kubernetes**. I enjoy solving complex problems and finding new things to challenge myself with. I'm a stickler for the fundamentals; TDD, infra-as-code, release pipelines w/ GitOps, promotion through staging environments.  I find solving problems of scale, availability, and networking to be some of the most rewarding. 
 
 Couple other things about me:
 
