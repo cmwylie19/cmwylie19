@@ -11,11 +11,11 @@ I'm a developer heavily focuses on the hybrid cloud around **Kubernetes**. I enj
 
 Couple other things about me:
 
-- 🔭 I live by the 1% rule, where, no matter what, i try to improve my skills at least by 1% every day. 
+- 🔭 Living by the 1% rule, I try to improve my skills at least by 1% every day. 
 - 💬 Find my writing in Go, JavaScript, TypeScript and using WASM and gRPC
-- 📫 How to reach me: Email
-- ⚡ Fun fact: I have a [blog](https://caseywylie.io) 
-- ⛴️ I hold all of the Kubernetes Certs from the CNCF (CKAD,CKA,CKS)
+- 📫 How to reach me: [Email](mailto:casewylie@gmail.com) and [LinkedIn](https://linkedin.com/in/casewylie)
+- ⚡ Fun fact: I have a [blog](https://caseywylie.io)
+- ⛴️ CNCF Kubernetes Certs (CKAD,CKA,CKS)
 
 
 <!-- ![Casey's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmwylie19&show_icons=true&theme=radical&custom_title=Stats&hide=ranks) -->
