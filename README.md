@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cmwylie19/)
 
 
-I'm a developer heavily focuses on the hybrid cloud around **Kubernetes**. I enjoy solving complex problems and finding new things to challenge myself with. I'm a stickler for the fundamentals; TDD, infra-as-code, release pipelines w/ GitOps, promotion through staging environments.  I find solving problems of scale, availability, and networking to be some of the most rewarding. 
+I'm a developer focused on the hybrid cloud around **Kubernetes**. I solve problems in distributed systems.  
 
 Couple other things about me:
 
